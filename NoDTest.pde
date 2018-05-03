@@ -1,7 +1,7 @@
 // Let's talk!
 
 /* Keyboard Commands:
-  f - start sending file.nc
+  f - start sending filecopy.nc
   s - Stop!
   r - Restart after stop (work in progress)
 
